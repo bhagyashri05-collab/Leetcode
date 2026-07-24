@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/bhagyashri05-collab/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/bhagyashri05-collab/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
